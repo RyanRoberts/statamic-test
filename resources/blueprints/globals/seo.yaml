@@ -1,0 +1,11 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: meta_description
+            field:
+              type: text
+              display: 'Meta Description'
