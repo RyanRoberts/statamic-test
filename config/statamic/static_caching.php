@@ -83,18 +83,7 @@ return [
 
         'class' => null,
 
-        'rules' => [
-					'collections' => [
-						'articles' => [
-								'urls' => [
-									'/topics',
-									'/topics/*',
-									'/articles',
-									'/',
-								]
-						],
-				],
-        ],
+        'rules' => 'all',
 
     ],
 
