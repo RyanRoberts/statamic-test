@@ -1,10 +1,8 @@
 ---
-id: 72f11098-3e82-4e37-9c74-d2886649e3dc
-blueprint: page
-title: 'About Us'
-author: 7796c6ac-5e24-42f4-994d-87a57d108cb8
-template: default
-updated_by: 7796c6ac-5e24-42f4-994d-87a57d108cb8
-updated_at: 1720544559
+title: About
+updated_by: 96300192-873c-4615-b992-157508a8d7c5
+updated_at: 1579284102
+template: page
+id: 62136fa2-9e5c-4c38-a894-a2753f02f5ff
 ---
-Learn all about us.
+I'm just a kid living in the 90's, writing articles in his secret public journal wonder if someday, somewhere in the future, they will be read by someone.

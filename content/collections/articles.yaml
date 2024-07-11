@@ -1,15 +1,11 @@
 title: Articles
-template: default
-layout: layout
-mount: 8ee55e44-62b7-405f-b0b1-78f5fb7c3862
+route: '{slug}'
+template: articles.show
+mount: b9e4bfe3-9c12-4553-b7ef-f43c22ffaa63
+taxonomies:
+  - topics
 revisions: false
 date: true
-sort_dir: asc
 date_behavior:
   past: public
   future: private
-preview_targets:
-  -
-    label: Entry
-    url: '{permalink}'
-    refresh: true
